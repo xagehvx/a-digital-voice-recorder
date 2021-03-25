@@ -1,0 +1,2 @@
+eeprom.c:12:6:read_ee	40	static
+eeprom.c:21:6:write_ee	48	static

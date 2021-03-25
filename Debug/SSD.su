@@ -1,0 +1,8 @@
+SSD.c:11:6:SSD_init	8	static
+SSD.c:51:6:SSD_display	8	static
+SSD.c:109:6:SSD_printDigit	16	static
+SSD.c:350:6:SSD_schoolnumber	8	static
+SSD.c:358:6:SSD_overflow	8	static
+SSD.c:367:6:SSD_Inv	8	static
+SSD.c:376:6:SSD_utility	40	static
+SSD.c:435:6:SSD_showchar	16	static

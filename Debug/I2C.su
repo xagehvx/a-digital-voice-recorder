@@ -1,0 +1,6 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+I2C.c:11:6:I2C1_IRQHandler	8	static
+I2C.c:16:6:I2C_init_	8	static
+I2C.c:62:6:write_general	32	static
+I2C.c:79:6:read_general	40	static

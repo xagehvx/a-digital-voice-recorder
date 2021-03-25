@@ -1,0 +1,9 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+keypad.c:17:6:keypad_init	8	static
+keypad.c:86:6:EXTI0_1_IRQHandler	8	static
+keypad.c:138:6:EXTI2_3_IRQHandler	8	static
+keypad.c:191:6:EXTI4_15_IRQHandler	8	static
+keypad.c:295:6:clear_rows_keypad	8	static
+keypad.c:303:6:set_rows_keypad	8	static
+keypad.c:312:6:Keypad_data	16	static
